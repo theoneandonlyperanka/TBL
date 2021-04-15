@@ -1,6 +1,7 @@
 body {
     padding-top: 800px;
     margin: 0px;
+    text-align:center;
 }
 
 .profile {
@@ -100,3 +101,17 @@ p {
     background-color: aqua;
     color:black;
 }
+
+a {
+    text-decoration:none;
+}
+
+.article:hover {
+    color:black;
+    background-color:aqua;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
